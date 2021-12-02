@@ -35,24 +35,11 @@
     export let posts
   </script>
   
-  <h1>UnPhoSurLaLune</h1>
+  <h1 class="text-center"># UnPhoSurLaLune</h1>
   <ul>
     {#each posts as post}
     <li>
-      <a href="/post/{post.slug}">{post.title}</a>
+      <a href="/blog/{post.slug}">{post.title}</a>
     </li>
     {/each}
   </ul> 
-
-  <style>
-      :global(body) {
-          background-color: #b7b8ba;
-          color: #383C49;
-          /*
-           color1: #445369;
-            color2: #b7b8ba;
-            color3: #849cac;
-            color4: #847c84;
-            color5: #2c2c2c;
-      }
-  </style>
