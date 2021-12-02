@@ -1,8 +1,3 @@
-/* Write your global styles here, in PostCSS syntax */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 :root {
     --palette_color1: #445369;
     --palette_color2: #b7b8ba;
