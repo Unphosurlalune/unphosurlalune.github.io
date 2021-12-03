@@ -12,12 +12,9 @@
 		<link rel="modulepreload" href="/app/start-b01961ce.js">
 		<link rel="modulepreload" href="/app/chunks/vendor-07b9be69.js">
 		<link rel="modulepreload" href="/app/pages/__layout.svelte-e5af4f03.js">
-		<link rel="modulepreload" href="/app/pages/index.svelte-b444c0d7.js">
-		<link rel="modulepreload" href="/app/chunks/index-1b787112.js">
+		<link rel="modulepreload" href="/app/pages/categories/index.svelte-37528f1d.js">
 		<link rel="stylesheet" href="/app/assets/start-61d1577b.css">
 		<link rel="stylesheet" href="/app/assets/pages/__layout.svelte-0b574148.css">
-		<link rel="stylesheet" href="/app/assets/pages/index.svelte-cc108942.css">
-		<link rel="stylesheet" href="/app/assets/index-7b9b44af.css">
 
 		<script type="module">
 			import { start } from "/app/start-b01961ce.js";
@@ -34,11 +31,11 @@
 					error: null,
 					nodes: [
 						import("/app/pages/__layout.svelte-e5af4f03.js"),
-						import("/app/pages/index.svelte-b444c0d7.js")
+						import("/app/pages/categories/index.svelte-37528f1d.js")
 					],
 					page: {
 						host: location.host, // TODO this is redundant
-						path: "\u002F",
+						path: "\u002Fcategories",
 						query: new URLSearchParams(""),
 						params: {}
 					}
@@ -50,24 +47,22 @@
 		<div id="svelte">
 
 
-<header class="svelte-sckv5z"><nav class="svelte-1gtof25"><ul class="svelte-1gtof25"><li class="svelte-1gtof25 active"><a sveltekit:prefetch href="/" class="svelte-1gtof25">Accueil</a></li>
+<header class="svelte-sckv5z"><nav class="svelte-1gtof25"><ul class="svelte-1gtof25"><li class="svelte-1gtof25"><a sveltekit:prefetch href="/" class="svelte-1gtof25">Accueil</a></li>
 		<li class="separator svelte-1gtof25">•</li>
 		<li class="svelte-1gtof25"><a sveltekit:prefetch href="/blog" class="svelte-1gtof25">Blog</a></li>
 		<li class="separator svelte-1gtof25">•</li>
-		<li class="svelte-1gtof25"><a sveltekit:prefetch href="/categories" class="svelte-1gtof25">Categories</a></li>
+		<li class="svelte-1gtof25 active"><a sveltekit:prefetch href="/categories" class="svelte-1gtof25">Categories</a></li>
 		<li class="separator svelte-1gtof25">•</li>
 		<li class="svelte-1gtof25"><a sveltekit:prefetch href="/a-propos" class="svelte-1gtof25">A propos</a></li></ul>
 </nav>
 </header>
-	<main class="svelte-4zm9ee"><h1 class="page-title ">UnPhoSurLaLune</h1>
-  Bonjour et bienvenue sur notre blog.
-  <h2>Les 2 derniers post</h2>
-  <ul class="svelte-kerpa7"><li><a href="/blog/post-1"><div class="button svelte-7gfv54">Le premier post</div>
-</a>
-    </li><li><a href="/blog/post-2"><div class="button svelte-7gfv54">Ne pas croire au allusion d&#39;optique....</div>
-</a>
-    </li></ul> 
-  <h2>Les categories</h2></main>
+	<main class="svelte-4zm9ee"><h1 class="page-title">Categories
+</h1>
+<p>Voici la liste de categories
+</p>
+  <ul><li><a href="/categories/chats"><div class="button">Chats
+        </div></a>
+    </li></ul></main>
 <footer class="svelte-po1btp"><p>• UnPhoSurLaLune •</p>
 	<div class="viewModeButtons svelte-1d3ssyg"><span class="button svelte-1d3ssyg" id="display_light"><i class="gg-sun svelte-18azl95"></i></span>
 	<span class="button active svelte-1d3ssyg" id="display_dark"><i class="gg-moon svelte-1ydcj0x"></i></span>
