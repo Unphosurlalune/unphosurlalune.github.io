@@ -12,7 +12,7 @@
   
       const query = gql`
         query PostsIndex {
-          posts(last: 2) {
+          posts(orderBy: publishedAt_DESC) {
             id
             title
             slug
@@ -36,23 +36,17 @@
     export let posts
   </script>
   
-  <h1 class="page-title ">UnPhoSurLaLune</h1>
-  Bonjour et bienvenue sur notre blog.
-  <h2> Les 2 derniers post</h2>
+  <h1 class="page-title">Blog</h1>
   <ul>
     {#each posts as post}
     <li>
       <BlogTile post={post} />
     </li>
     {/each}
-  </ul> 
-  <h2> Les categories</h2>
-  
-
+  </ul>
 
   <style>
     ul {
       list-style-type: none;
-      padding-inline-start: 0px;
     }
   </style>

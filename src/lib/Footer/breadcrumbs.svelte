@@ -62,7 +62,7 @@
 		height: 100%;
         padding: 0 0.2em;
 		align-items: right;
-		color: var(--color_link);
+		color: var(--color__text-link);
 		font-size: 1em;
 		text-transform: uppercase;
 		letter-spacing: 20%;
@@ -70,6 +70,6 @@
 	}
 
 	a:hover {
-		color: var(--color_linkHover);
+		color: var(--color__text-link-hover);
 	}
 </style>

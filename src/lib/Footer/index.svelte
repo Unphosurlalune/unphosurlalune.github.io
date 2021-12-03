@@ -4,7 +4,7 @@ import Breadcrumbs from './breadcrumbs.svelte';
 </script>
 
 <footer>
-	<p>UnPhoSurLaLune</p>
+	<p>• UnPhoSurLaLune •</p>
 	<ThemeSwicther />
 </footer>
 
@@ -13,7 +13,8 @@ import Breadcrumbs from './breadcrumbs.svelte';
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		background-color: var(--color_BG_navBar);
+		color: var(--color__textInButton);
+		background-color: var(--color__button-background);
 		position: fixed;
 		bottom: 0;
 		width: 100%;    

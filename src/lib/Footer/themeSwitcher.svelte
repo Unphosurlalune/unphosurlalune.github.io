@@ -28,7 +28,7 @@
 		display: inline-flex;
 		padding: 4px 6px;
 		right: 5px;
-		background-color: var(--color_BG);
+		background-color: var(--color__background);
 		border-radius: 10px;
 	}
 	.button {
@@ -39,9 +39,9 @@
 		margin-left: 15px;
 	}
 	.button.active {
-		color: var(--color_link);
+		color: var(--color__text-link);
 	}
 	.button:hover {
-		color: var(--color_linkHover);
+		color: var(--color__text-link-hover);
 	}
 </style>

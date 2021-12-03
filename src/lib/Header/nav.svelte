@@ -5,19 +5,20 @@
 <nav>
 	<ul>
 		<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Accueil</a></li>
-		<li class:active={$page.path === '/a-propos'}><a sveltekit:prefetch href="/">a-propos</a></li>
-		<!--
-			<li class:active={$page.path === '/about'}><a sveltekit:prefetch href="/post">post</a></li>
-			<li class:active={$page.path === '/labs'}><a sveltekit:prefetch href="/a-propos">About</a></li>
-		 <li class:active={$page.path === '/nfts'}><a sveltekit:prefetch href="/nfts">NFTs</a></li> -->
+		<li class="separator">•</li>
+		<li class:active={$page.path === '/blog'}><a sveltekit:prefetch href="/blog">Blog</a></li>
+		<li class="separator">•</li>
+		<li class:active={$page.path === '/categories'}><a sveltekit:prefetch href="/categories">Categories</a></li>
+		<li class="separator">•</li>
+		<li class:active={$page.path === '/a-propos'}><a sveltekit:prefetch href="/a-propos">A propos</a></li>
 	</ul>
 </nav>
 
 <style>
 	nav {
 		display: flex;
-		justify-content: left;
-		--background: var(--color_BG_navBar);
+		justify-content: center;
+		color: var(--color__textInButton);
 		padding: 0.3rem 1rem;
 		width: 100%;
 		max-width: 1024px;
@@ -34,7 +35,7 @@
 		justify-content: center;
 		align-items: center;
 		list-style: none;
-		background: var(--color_BG_navBar);
+		background: #dad9d7;
 		background-size: contain;
 	}
 
@@ -43,8 +44,16 @@
 		height: 100%;
 	}
 
-	li.active::before {
-		--size: 6px;
+	li.separator {
+		top: 5px;
+		color: var(--color__text);
+	}
+	li.active a{
+		color:var(--color__text);
+	}
+
+	li.active::after {
+		--size:6px;
 		content: '';
 		width: 0;
 		height: 0;
@@ -52,7 +61,7 @@
 		top: 0;
 		left: calc(50% - var(--size));
 		border: var(--size) solid transparent;
-		border-top: var(--size) solid var(--color_linkHover);
+		border-top: var(--size) solid var(--color__text-link-hover);
 	}
 
 	nav a {
@@ -60,7 +69,7 @@
 		height: 100%;
 		align-items: center;
 		padding: 0 1em;
-		color: var(--color_link);
+		color: var(--color__text-link);
 		font-size: 1em;
 		text-transform: uppercase;
 		letter-spacing: 20%;
@@ -69,7 +78,7 @@
 	}
 
 	a:hover {
-		color: var(--color_linkHover);
-		border-top: 1px solid var(--color_linkHover);
+		color: var(--color__text-link-hover);
+		border-top: 1px solid var(--color__text-link-hover);
 	}
 </style>

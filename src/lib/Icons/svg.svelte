@@ -13,6 +13,6 @@
 	}
 
 	path {
-		fill: var(--color_link);
+		fill: var(--color__text-link);
 	}
 </style>
