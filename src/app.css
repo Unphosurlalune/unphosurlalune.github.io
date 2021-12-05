@@ -1,24 +1,26 @@
 :root {
-    --palette_color1: #445369;
-    --palette_color2: #b7b8ba;
-    --palette_color3: #849cac;
-    --palette_color4: #847c84;
-    --palette_color5: #2c2c2c;
-    /***/
     --color__text: #2c2c2c;
-    --color__text-heading: #445369;
-    --color__text-link: #849cac;
+    --color__text-heading: #4B6082;
+    --color__text-link: #37404c;
     --color__text-link-hover: #fc625c;
-    --color__text-link-background: #2c2c2c;
-    --color__background: #cfcfcf;
+    --color__text-link-hover: #ca3b3d;
+    --color__text-link-background: #ffff;
+    --color__background: #ffff;
     --color__textInButton:var(--color__background);
-    --color__button-background: #847c84;
+    --color__button-background: #2c2c2c;
     --radius_borders: 2;
     --padding_textInButton: 1.2rem;
 }
 
 .light-mode {
-    --color__button-background: #2c2c2c;
+    --color__text: #4b5f82;
+    --color__text-heading: #4b5f82;
+    --color__text-link: #37404c;
+    --color__text-link-hover: #fc625c;
+    --color__text-link-background: #4b5f82;
+    --color__background: #2c2c2c;
+    --color__textInButton:var(--color__background);
+    --color__button-background: #4b5f82;
 }
 
 html {
@@ -37,7 +39,6 @@ body {
     margin: 0;
     background-color: var(--color__background);
     color: var(--color_text);
-    
 }
 
 a {
