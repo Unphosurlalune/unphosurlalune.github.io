@@ -1,91 +1,71 @@
+/* Write your global styles here, in PostCSS syntax */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 :root {
-    --color__text: #2c2c2c;
-    --color__text-heading: #4B6082;
-    --color__text-link: #37404c;
-    --color__text-link-hover: #fc625c;
-    --color__text-link-hover: #ca3b3d;
-    --color__text-link-background: #ffff;
-    --color__background: #ffff;
-    --color__textInButton:var(--color__background);
-    --color__button-background: #2c2c2c;
-    --radius_borders: 2;
-    --padding_textInButton: 1.2rem;
+	--color__text: #2c2c2c;
+	--color__text-heading: #4b6082;
+	--color__text-link: #37404c;
+	--color__text-link-hover: #fc625c;
+	--color__text-link-hover: #ca3b3d;
+	--color__text-link-background: #ffff;
+	--color__background: #ffff;
+	--color__textInButton: var(--color__background);
+	--color__button-background: #2c2c2c;
+	--radius_borders: 2;
+	--padding_textInButton: 1.2rem;
 }
 
 .light-mode {
-    --color__text: #4b5f82;
-    --color__text-heading: #4b5f82;
-    --color__text-link: #37404c;
-    --color__text-link-hover: #fc625c;
-    --color__text-link-background: #4b5f82;
-    --color__background: #2c2c2c;
-    --color__textInButton:var(--color__background);
-    --color__button-background: #4b5f82;
+	--color__text: #4b5f82;
+	--color__text-heading: #4b5f82;
+	--color__text-link: #37404c;
+	--color__text-link-hover: #fc625c;
+	--color__text-link-background: #4b5f82;
+	--color__background: #2c2c2c;
+	--color__textInButton: var(--color__background);
+	--color__button-background: #4b5f82;
 }
 
 html {
-    box-sizing: border-box;
-    font-size: 12px;
+	box-sizing: border-box;
+	font-size: 12px;
 }
 
 *,
 :after,
 :before {
-    box-sizing: inherit
+	box-sizing: inherit;
 }
 
 body {
-    font-family: Roboto Mono, monospace;
-    margin: 0;
-    background-color: var(--color__background);
-    color: var(--color_text);
+	font-family: Roboto Mono, monospace;
+	margin: 0;
+	background-color: var(--color__background);
+	color: var(--color_text);
 }
 
 a {
-    color: var(--color__text-link);
-    text-decoration: none
+	color: var(--color__text-link);
+	text-decoration: none;
 }
 
 a:hover {
-    color: var(--color__text-link-hover);
+	color: var(--color__text-link-hover);
 }
 
-header {
-    position: fixed;
-}
-.container {
-    margin:0 auto;
-    max-width:960px;
-}
-.content {
-    margin: 0.2rem
-}
+header, Footer { position: fixed; }
 
 @media (max-width: 425px) {
-    .hidden-mobile {
-        display:none;
-    }
+	.hidden-mobile {
+		display: none;
+	}
 }
 
 h1,h2,h3,h4,h5,h6 {
-    color: var(--color__text-heading);
+	color: var(--color__text-heading);
 }
 
-.page-title {
-    margin: 25px 0px;
-    text-align: center;
-}
-
-.page-title::before {
-    content: '•';
-    position: relative;
-    top: 2px;
-    right: 3px;
-}
-
-.page-title::after {
-    content: '•';
-    position: relative;
-    top: 2px;
-    left: 3px;
-}

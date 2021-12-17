@@ -31,13 +31,11 @@
   </script>
   
   <script>
-    export let categories
-    console.log(categories);
+    export let categories;
+    import PageTitle from "$lib/pageTitle.svelte";
   </script>
-  
-  <h1 class="page-title">
-    Categories
-</h1>
+
+    <PageTitle title='Categories' />
 <p>
     Voici la liste de categories
 </p>

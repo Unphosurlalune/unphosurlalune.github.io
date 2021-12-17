@@ -1,55 +1,43 @@
 <script>
+	import Button from '$lib/buttons/button.svelte';
 	import { page } from '$app/stores';
 </script>
 
 <nav>
 	<ul>
-		<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Accueil</a></li>
-		<li class="separator">•</li>
-		<li class:active={$page.path === '/blog'}><a sveltekit:prefetch href="/blog">Blog</a></li>
-		<li class="separator">•</li>
-		<li class:active={$page.path === '/categories'}><a sveltekit:prefetch href="/categories">Categories</a></li>
-		<li class="separator">•</li>
-		<li class:active={$page.path === '/a-propos'}><a sveltekit:prefetch href="/a-propos">A propos</a></li>
+		<li class:active={$page.path === '/'}>
+			<Button url='/' text='Accueil' />
+		</li>
+		<li class:active={$page.path === '/blog'}>
+			<Button url="/blog" text='Blog' /></li>
+		<li class:active={$page.path === '/categories'}>
+			<Button url="/categories" text='Categories' /></li>
+		<li class:active={$page.path === '/a-propos'}>
+			<Button url="/a-propos" text='A propos' /></li>
 	</ul>
 </nav>
 
 <style>
 	nav {
-		display: flex;
-		justify-content: center;
-		color: var(--color__textInButton);
-		padding: 0.3rem 1rem;
 		width: 100%;
 		max-width: 1024px;
-		margin: 0 auto;
+		margin: 5px auto;
 	}
-
 	ul {
-		position: relative;
-		border-radius: 4px;
-		padding: 0;
-		margin: 0;
-		height: 2em;
 		display: flex;
 		justify-content: center;
 		align-items: center;
 		list-style: none;
-		background: #dad9d7;
 		background-size: contain;
 	}
 
 	li {
 		position: relative;
-		height: 100%;
+		margin-right: 5px;
 	}
 
-	li.separator {
-		top: 5px;
-		color: var(--color__text);
-	}
-	li.active a{
-		color:var(--color__text);
+	ul:first-child {
+		margin-right: 0px;
 	}
 
 	li.active::after {
@@ -62,23 +50,6 @@
 		left: calc(50% - var(--size));
 		border: var(--size) solid transparent;
 		border-top: var(--size) solid var(--color__text-link-hover);
-	}
-
-	nav a {
-		display: flex;
-		height: 100%;
-		align-items: center;
-		padding: 0 1em;
-		color: var(--color__text-link);
-		font-size: 1em;
-		text-transform: uppercase;
-		letter-spacing: 20%;
-		text-decoration: none;
-		transition: color 0.2s linear;
-	}
-
-	a:hover {
-		color: var(--color__text-link-hover);
-		border-top: 1px solid var(--color__text-link-hover);
+		z-index: 11;
 	}
 </style>

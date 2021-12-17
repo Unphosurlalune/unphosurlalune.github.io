@@ -1,6 +1,7 @@
 <script context="module">
     import { gql, GraphQLClient } from 'graphql-request'
     import BlogTile from '$lib/BlogTile/index.svelte';
+    import PageTitle from '$lib/pageTitle.svelte';
     
     export async function load() {
       const graphcms = new GraphQLClient(
@@ -18,6 +19,9 @@
             slug
             date
             excerpt
+            author {
+              name
+            }
           }
         }
       `
@@ -36,7 +40,7 @@
     export let posts
   </script>
   
-  <h1 class="page-title">Blog</h1>
+  <PageTitle title='Blog' />
   <ul>
     {#each posts as post}
     <li>

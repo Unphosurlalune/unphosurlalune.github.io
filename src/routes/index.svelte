@@ -1,6 +1,7 @@
 <script context="module">
     import { gql, GraphQLClient } from 'graphql-request'
     import BlogTile from '$lib/BlogTile/index.svelte';
+    import PageTitle from '$lib/pageTitle.svelte';
     
     export async function load() {
       const graphcms = new GraphQLClient(
@@ -12,12 +13,15 @@
   
       const query = gql`
         query PostsIndex {
-          posts(last: 2) {
+          posts(last: 3) {
             id
             title
             slug
             date
             excerpt
+            author {
+              name
+            }
           }
         }
       `
@@ -36,9 +40,10 @@
     export let posts
   </script>
   
-  <h1 class="page-title ">UnPhoSurLaLune</h1>
-  Bonjour et bienvenue sur notre blog.
-  <h2> Les 2 derniers post</h2>
+ <PageTitle title='UnPhoSurLaLune' />
+  <p>Bonjour et bienvenue sur notre blog.</p>
+  <br>
+  <h2> Les 3 derniers post</h2>
   <ul>
     {#each posts as post}
     <li>
@@ -46,7 +51,6 @@
     </li>
     {/each}
   </ul> 
-  <h2> Les categories</h2>
   
 
 

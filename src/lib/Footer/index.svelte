@@ -1,11 +1,10 @@
 <script lang="ts">
 	import ThemeSwicther from '$lib/Footer/themeSwitcher.svelte'
-import Breadcrumbs from './breadcrumbs.svelte';
+	import Breadcrumbs from './breadcrumbs.svelte';
 </script>
 
 <footer>
 	<p>• UnPhoSurLaLune •</p>
-	<ThemeSwicther />
 </footer>
 
 <style>
@@ -19,7 +18,7 @@ import Breadcrumbs from './breadcrumbs.svelte';
 		bottom: 0;
 		width: 100%;    
 		margin: 0px;
-		padding: 0px 5px 2px;
+		padding: 10px 5px;
 	}
 
 	@media (max-width: 425px) {
