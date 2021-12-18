@@ -1,5 +1,6 @@
 <script context="module">
-    import { gql, GraphQLClient } from 'graphql-request'
+    import { gql, GraphQLClient } from 'graphql-request';
+    import BlogHeading from './blogHeading.svelte'; 
   
     export async function load(context) {
       const graphcms = new GraphQLClient(
@@ -49,9 +50,7 @@
   </svelte:head>
   
   <div class="text-center w-full">
-  <h1>{post.title}</h1>
-  <p>{post?.author?.name}</p>
-  <p>{post?.date}</p>
+  <BlogHeading title='{post.title}' author='{post.author.name}' date='{post.date}' />
   <p>{post?.tags}</p>
   {@html post?.content?.html}
   </div> 

@@ -1,7 +1,7 @@
 
   <script context="module">
     import { gql, GraphQLClient } from 'graphql-request'
-    
+    import CategoryTiles from './categoryTiles.svelte';
     export async function load() {
       const graphcms = new GraphQLClient(
         import.meta.env.VITE_GRAPHCMS_URL,
@@ -36,17 +36,13 @@
   </script>
 
     <PageTitle title='Categories' />
-<p>
-    Voici la liste de categories
-</p>
-  <ul>
+    <p class="text-center my-5">
+        Voici la liste de categories
+    </p>
+  <ul class="text-center">
     {#each categories as category}
     <li>
-      <a href="/categories/{category.slug}">
-        <div class="button">
-            {category.name}
-        </div>
-    </a>
+      <CategoryTiles url="/categories/{category.slug}" text='{category.name}' />
     </li>
     {/each}
   </ul>

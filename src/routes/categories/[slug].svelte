@@ -1,5 +1,6 @@
 <script context="module">
-    import { gql, GraphQLClient } from 'graphql-request'
+    import { gql, GraphQLClient } from 'graphql-request';
+    import PageTitle from '$lib/pageTitle.svelte';
   
     export async function load(context) {
       const graphcms = new GraphQLClient(
@@ -40,6 +41,6 @@
   </svelte:head>
   
   <div class="text-center w-full">
-  <h1>{category.name}</h1>
+  <PageTitle title='{category.name}' />
   <p>{category?.description}</p>
   </div> 

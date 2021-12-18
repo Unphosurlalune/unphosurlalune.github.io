@@ -1,7 +1,7 @@
 <script context="module">
     import { gql, GraphQLClient } from 'graphql-request'
     import BlogTile from '$lib/BlogTile/index.svelte';
-    import PageTitle from '$lib/pageTitle.svelte';
+      import HomeTitle from '$lib/homeTitle.svelte';
     
     export async function load() {
       const graphcms = new GraphQLClient(
@@ -40,7 +40,7 @@
     export let posts
   </script>
   
- <PageTitle title='UnPhoSurLaLune' />
+ <HomeTitle title='UnPhoSurLaLune' />
   <p>Bonjour et bienvenue sur notre blog.</p>
   <br>
   <h2> Les 3 derniers post</h2>

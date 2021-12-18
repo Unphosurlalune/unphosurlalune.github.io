@@ -21,5 +21,6 @@
 		margin: 0 auto;
 		box-sizing: border-box;
 		margin-bottom: 4em;
+		padding-top: 35px;
 	}
 </style>
