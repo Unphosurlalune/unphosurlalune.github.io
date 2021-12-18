@@ -1,0 +1,8 @@
+import{M as _,S as b,i as j,s as C,k as v,e as y,j as D,t as E,O as P,d as p,n as $,c as q,a as w,m as S,g as x,b as T,f as k,o as z,D as f,h as B,x as G,u as I,v as L}from"../../chunks/vendor-d06a5aec.js";import{P as M}from"../../chunks/pageTitle-5e6b7128.js";function O(n){var h;let s,r,t,a,g,c,u=((h=n[0])==null?void 0:h.description)+"",d,i;return document.title=s=n[0].name,a=new M({props:{title:n[0].name}}),{c(){r=v(),t=y("div"),D(a.$$.fragment),g=v(),c=y("p"),d=E(u),this.h()},l(e){P('[data-svelte="svelte-y2a7n4"]',document.head).forEach(p),r=$(e),t=q(e,"DIV",{class:!0});var l=w(t);S(a.$$.fragment,l),g=$(l),c=q(l,"P",{});var m=w(c);d=x(m,u),m.forEach(p),l.forEach(p),this.h()},h(){T(t,"class","text-center w-full")},m(e,o){k(e,r,o),k(e,t,o),z(a,t,null),f(t,g),f(t,c),f(c,d),i=!0},p(e,[o]){var m;(!i||o&1)&&s!==(s=e[0].name)&&(document.title=s);const l={};o&1&&(l.title=e[0].name),a.$set(l),(!i||o&1)&&u!==(u=((m=e[0])==null?void 0:m.description)+"")&&B(d,u)},i(e){i||(G(a.$$.fragment,e),i=!0)},o(e){I(a.$$.fragment,e),i=!1},d(e){e&&p(r),e&&p(t),L(a)}}}async function A(n){const s=new _.GraphQLClient("https://api-eu-central-1.graphcms.com/v2/ckwjhq3s82koy01zed0peabn6/master",{headers:{}}),r=_.gql`
+        query getCategory($slug: String!) {
+          category(where: { slug: $slug }) {
+            name,
+            description
+          }
+        }
+      `,t={slug:n.page.params.slug},{category:a}=await s.request(r,t);return{props:{category:a}}}function Q(n,s,r){let{category:t}=s;return n.$$set=a=>{"category"in a&&r(0,t=a.category)},[t]}class F extends b{constructor(s){super();j(this,s,Q,O,C,{category:0})}}export{F as default,A as load};
