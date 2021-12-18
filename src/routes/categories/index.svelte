@@ -1,7 +1,7 @@
 
   <script context="module">
     import { gql, GraphQLClient } from 'graphql-request'
-    import CategoryTiles from './categoryTiles.svelte';
+    import CategoryTiles from '$lib/categoryTiles.svelte';
     export async function load() {
       const graphcms = new GraphQLClient(
         import.meta.env.VITE_GRAPHCMS_URL,
