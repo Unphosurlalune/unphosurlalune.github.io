@@ -1,5 +1,6 @@
 <script lang="ts">
 	import Header from '$lib/Header/index.svelte';
+	import Moon from '$lib/svg/moon.svelte';
 	import Footer from '$lib/Footer/index.svelte';
 	import '../app.css';
 </script>
