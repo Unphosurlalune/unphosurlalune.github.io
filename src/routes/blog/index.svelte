@@ -41,6 +41,9 @@
   </script>
   
   <PageTitle title='Blog' />
+  <p>
+    Articles du plus recent au plus ancien...
+  </p>
   <ul>
     {#each posts as post}
     <li>

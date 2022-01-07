@@ -14,8 +14,6 @@
 			<Button url="/categories" text='Categories' /></li>
 		<li class:active={$page.path === '/a-propos'}>
 			<Button url="/a-propos" text='A propos' /></li>
-		<li class:active={$page.path === '/rss'}>
-				<Button url="/rss" text='rss' /></li>
 	</ul>
 </nav>
 
