@@ -5,12 +5,15 @@ import Button from "$lib/buttons/button.svelte";
 
 <PageTitle title='A-propos' />
 <p>"UnPhoSurLalUne" se dit "info sur la lune"</p>
-
+<br><br>
 <h2> Flux Rss utile</h2>
 <p>
     Des flux rss a utiliser, a écouter !
 </p>
-<Button url="/rss" text='rss' />
+<div>
+    <Button url="/rss" text='flux rss' />
+</div>
+
 <style>
     p {
         margin-bottom: 10px;

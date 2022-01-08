@@ -2,12 +2,11 @@
     export let title = '';
 </script>
 
-<h1 class="page-title text-xl">{title}</h1>
+<h1 class="text-center page-title text-xl">{title}</h1>
 
 <style>
 	.page-title {
 		margin: 25px 0px;
-		text-align: center;
 	}
 
 	.page-title::before {
