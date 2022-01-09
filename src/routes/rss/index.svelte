@@ -73,11 +73,7 @@
         {
             url: 'rss/jmt/paraboles.xml',
             title: 'Paraboles du Royaume'
-        },
-		{
-			url: 'rss/jmt/evangile-de-matthieu.xml',
-			title: "Lecture hébraïque de l'évangile de Matthieu"
-		}
+        }
 	];
 </script>
 
