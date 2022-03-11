@@ -1,10 +1,12 @@
 <script>
 	import Button from '$lib/buttons/button.svelte';
 	import { page } from '$app/stores';
+	import BurgerMenu from '$lib/navigation/burgerMenu.svelte';
+	export let open = false;
 </script>
 
-<nav>
-	<ul>
+<nav class="z-50">
+	<ul class="invisible sm:visible">
 		<li class:active={$page.path === '/'}>
 			<Button url='/' text='Accueil' />
 		</li>
@@ -15,6 +17,16 @@
 		<li class:active={$page.path === '/a-propos'}>
 			<Button url="/a-propos" text='A propos' /></li>
 	</ul>
+	<div class="visible xs:invisible sm:invisible">
+		<div style="position:absolute; top: 5px; text-align:center; width:100%">
+			<Button url='/' text='UnPhoSurLaLune' />
+		</div>
+		<BurgerMenu padding={'20px'} open={open}>
+			<Button url="/blog" text='Blog'  on:click={() => (open = !open)} /><br>
+			<Button url="/categories" text='Categories' on:click={() => (open = !open)} /><br>
+			<Button url="/a-propos" text='A propos' on:click={() => (open = !open)} /><br>
+		</BurgerMenu>
+	</div>
 </nav>
 
 <style>

@@ -14,7 +14,8 @@ const config = {
 		!dev &&
 			cssnano({
 				preset: 'default'
-			})
+			}),
+			tailwindcss("./tailwind.config.cjs"),
 	]
 };
 

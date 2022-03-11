@@ -1,6 +1,5 @@
 <script lang="ts">
 	import Header from '$lib/Header/index.svelte';
-	import Moon from '$lib/svg/moon.svelte';
 	import Footer from '$lib/Footer/index.svelte';
 	import '../app.css';
 </script>
@@ -18,7 +17,7 @@
 		flex-direction: column;
 		padding: 1rem;
 		width: 100%;
-		max-width: 1024px;
+		max-width: 678px;
 		margin: 0 auto;
 		box-sizing: border-box;
 		margin-bottom: 4em;
