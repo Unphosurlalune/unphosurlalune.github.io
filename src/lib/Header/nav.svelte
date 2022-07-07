@@ -3,18 +3,20 @@
 	import { page } from '$app/stores';
 	import BurgerMenu from '$lib/navigation/burgerMenu.svelte';
 	export let open = false;
+
+	$: $page.url && (open = false)
 </script>
 
 <nav class="z-50">
 	<ul class="invisible sm:visible">
-		<li class:active={$page.path === '/'}>
+		<li class:active={$page.url.pathname === '/'}>
 			<Button url='/' text='Accueil' />
 		</li>
-		<li class:active={$page.path === '/blog'}>
+		<li class:active={$page.url.pathname === '/blog'}>
 			<Button url="/blog" text='Blog' /></li>
-		<li class:active={$page.path === '/categories'}>
+		<li class:active={$page.url.pathname === '/categories'}>
 			<Button url="/categories" text='Categories' /></li>
-		<li class:active={$page.path === '/a-propos'}>
+		<li class:active={$page.url.pathname === '/a-propos'}>
 			<Button url="/a-propos" text='A propos' /></li>
 	</ul>
 	<div class="visible xs:invisible sm:invisible">

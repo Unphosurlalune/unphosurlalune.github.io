@@ -30,7 +30,7 @@
 		`;
 
 		const variables = {
-			slug: context.page.params.slug
+			slug: context.params.slug
 		};
 		const { category } = await graphcms.request(query, variables);
 

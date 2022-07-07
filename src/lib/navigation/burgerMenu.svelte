@@ -1,5 +1,4 @@
 <script>
-	import OutClick from 'svelte-outclick';
 	import BurgerButton from './BurgerButton.svelte';
 	import SideMenu from './SideMenu.svelte';
 	export let open = false;
@@ -30,12 +29,12 @@
 	
 </script>
 
-<OutClick on:outclick={closeFn}>
+
 <div class="z-50">
 	<BurgerButton {...burgerProps} bind:open />
 	<SideMenu {...menuProps} bind:open />
 </div>
-</OutClick>
+
 
 <style>
 	.z-50 {
