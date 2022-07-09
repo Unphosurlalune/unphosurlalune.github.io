@@ -1,57 +1,42 @@
 <script context="module">
-    import { gql, GraphQLClient } from 'graphql-request'
     import BlogTile from '$lib/BlogTile/index.svelte';
-      import HomeTitle from '$lib/homeTitle.svelte';
-    
-    export async function load() {
-      const graphcms = new GraphQLClient(
-        import.meta.env.VITE_GRAPHCMS_URL,
-        {
-          headers: {},
-        }
-      )
-  
-      const query = gql`
-        query PostsIndex {
-          posts(last: 3) {
-            id
-            title
-            slug
-            date
-            excerpt
-            author {
-              name
-            }
-          }
-        }
-      `
-  
-      const { posts } = await graphcms.request(query)
-  
-      return {
-        props: {
-          posts,
-        },
+import CategoryTiles from '$lib/categoryTiles.svelte';
+    import HomeTitle from '$lib/homeTitle.svelte';
+    export const load = async ({ fetch }) => {
+    const posts = await fetch('/api/posts.json')
+    const allPosts = await posts.json()
+
+    return {
+      props: {
+        posts: allPosts.slice(0,2)
       }
     }
+  }
   </script>
   
   <script>
     export let posts
   </script>
   
+
+
  <HomeTitle title='UnPhoSurLaLune' />
   <p>Bonjour et bienvenue sur notre blog.</p>
+  <p>
+    Vous trouverez ici un peut de tout mais surtout du nous...
+    L'idée c'est d'etre authentique, sincère et de partager.
+    C'est pourquoi nous avons créé ce blog.
+  </p>
   <br>
-  <h2> Les 3 derniers post</h2>
+
+  2 Dernier articles
   <ul>
     {#each posts as post}
     <li>
-      <BlogTile post={post} />
+      <CategoryTiles text={post.meta.title} url={post.path} />
     </li>
     {/each}
-  </ul> 
-  
+  </ul>
 
 
   <style>

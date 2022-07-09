@@ -2,7 +2,7 @@
     export let title = '';
 </script>
 
-<h1 class="text-center page-title text-xl">{title}</h1>
+<h1 class="text-center page-title text-xl ">{title}</h1>
 
 <style>
 	.page-title {

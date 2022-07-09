@@ -7,6 +7,7 @@
 	<p>• UnPhoSurLaLune •</p>
 </footer>
 
+
 <style>
 	footer {
 		display: flex;
@@ -23,7 +24,7 @@
 
 	@media (max-width: 425px) {
 		footer {
-			justify-content: right;
+			justify-content: center;
 			padding: 0px 1rem;
 		}
 	}

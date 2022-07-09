@@ -28,7 +28,7 @@
       `
   
       const variables = {
-        slug: context.page.params.slug,
+        slug: context.params.slug,
       }
   
       const { post } = await graphcms.request(query, variables)
@@ -46,11 +46,11 @@
   </script>
   
   <svelte:head>
-    <title>{post.title}</title>
+    <title>{post.meta.title}</title>
   </svelte:head>
   
   <div class="text-center w-full">
-  <BlogHeading title='{post.title}' author='{post.author.name}' date='{post.date}' />
+  <BlogHeading title='{post.meta.title}' author='{post.author.name}' date='{post.date}' />
   <p>{post?.tags}</p>
   {@html post?.content?.html}
   </div> 

@@ -2,7 +2,7 @@
 	export let open;
 </script>
 
-<button class:open on:click={() => (open = !open)}>
+<div class="button" class:open on:click={() => (open = !open)}>
 	<div class="relative inline-block text-lg group">
 		<span
 			class="relative z-10 block px-2 py-1 overflow-hidden font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out border-2 border-gray-900 rounded-lg group-hover:text-white"
@@ -39,20 +39,12 @@
 			data-rounded="rounded-lg"
 		/>
 	</div>
-</button>
+</div>
 
 <style>
-	button {
+	.button {
 		position: absolute;
-		left: 0px;
-		top: 0px;
-		margin: 5px;
-		z-index: 10;
-		background-color: Transparent;
-		background-repeat: no-repeat;
-		border: none;
-		cursor: pointer;
-		overflow: hidden;
-		outline: none;
+		top: 5px;
+		left: 8px;
 	}
-</style>
+	</style>

@@ -1,39 +1,17 @@
 <script context="module">
-    import { gql, GraphQLClient } from 'graphql-request'
     import BlogTile from '$lib/BlogTile/index.svelte';
     import PageTitle from '$lib/pageTitle.svelte';
     
-    export async function load() {
-      const graphcms = new GraphQLClient(
-        import.meta.env.VITE_GRAPHCMS_URL,
-        {
-          headers: {},
-        }
-      )
-  
-      const query = gql`
-        query PostsIndex {
-          posts(orderBy: publishedAt_DESC) {
-            id
-            title
-            slug
-            date
-            excerpt
-            author {
-              name
-            }
-          }
-        }
-      `
-  
-      const { posts } = await graphcms.request(query)
-  
-      return {
-        props: {
-          posts,
-        },
-      }
+    export const load = async ({ fetch }) => {
+    const posts = await fetch('/api/posts.json')
+    const allPosts = await posts.json()
+
+  return {
+    props: {
+      posts: allPosts
     }
+  }
+}
   </script>
   
   <script>
@@ -51,6 +29,8 @@
     </li>
     {/each}
   </ul>
+
+  
 
   <style>
     ul {

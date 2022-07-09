@@ -6,7 +6,7 @@
 	
 	let breadCrumbs = [];
 	function updateBreadcrumbs(){
-		let pathArray = $page.path.split('/').slice(1);
+		let pathArray = $page.url.pathname.split('/').slice(1);
 		breadCrumbs = pathArray.reduce((breadcrumbArray, path, idx) => {
 			breadcrumbArray.push({
 			to: breadcrumbArray[idx - 1] > 0
@@ -21,10 +21,10 @@
 </script>
 
 <ul class="breadcrumbs">
-	<li class:active={$page.path === '/'}>
+	<li class:active={$page.url.pathname === '/'}>
 		<a href="/"><img src="/logo-192.png" alt="Home" id="home-icon" /></a>
 	</li>
-	{#if $page.path != '/'}
+	{#if $page.url.pathname != '/'}
 		{#each breadCrumbs as breadCrumb}
 			 &gt; 
 			<li>
