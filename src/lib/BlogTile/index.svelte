@@ -1,6 +1,6 @@
 <script>
 	export let post = {
-		'path': "/path/to/post",
+		'path': "#",
 		'meta': {
 			'title': "Post title",
 			'excerpt': "Post excerpt",

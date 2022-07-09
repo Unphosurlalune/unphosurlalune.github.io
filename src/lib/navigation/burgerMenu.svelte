@@ -1,6 +1,6 @@
 <script>
-	import BurgerButton from './BurgerButton.svelte';
-	import SideMenu from './SideMenu.svelte';
+	import BurgerButton from '$lib/navigation/burgerButton.svelte';
+	import SideMenu from '$lib/navigation/sideMenu.svelte';
 	export let open = false;
 	export let duration = 0.4;
 	export let width = '15em';
