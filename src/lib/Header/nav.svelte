@@ -7,7 +7,7 @@
 	$: $page.url && (open = false)
 </script>
 
-<nav class="z-50">
+<nav class="z-200">
 	<ul class="invisible sm:visible">
 		<li class:active={$page.url.pathname === '/'}>
 			<Button url='/' text='Accueil' />

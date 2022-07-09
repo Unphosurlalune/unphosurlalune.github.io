@@ -4,6 +4,7 @@ date: "2021-12-06"
 author: "Cynthia"
 categories: 
   - "Islande"
+  - "Elements"
 excerpt: "Depuis que je vis en Islande, j’ai appris beaucoup plus du vent en quelques mois qu’en presque 30 ans. Vive la météo islandaise ^^
 
 L’Islande est connue pour son vent omniprésent. On l’entend, on le sent, on le voit aussi car il a des conséquences sur le paysage. 

@@ -9,8 +9,10 @@
     let handleClick = function() {
         open = !open
     }
-
-    $: if($navigating) handleClick();
+    let handleClose = function() {
+        open = false
+    }
+    $: if($navigating) handleClose();
 </script>
 
 <style>

@@ -57,7 +57,7 @@ a:hover {
 	color: var(--color__text-link-hover);
 }
 
-header, Footer { position: fixed; }
+header, Footer { position: fixed; z-index: 500 }
 
 @media (max-width: 425px) {
 	.hidden-mobile {

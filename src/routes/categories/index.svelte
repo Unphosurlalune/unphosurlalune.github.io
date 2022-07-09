@@ -1,48 +1,28 @@
+<script context="module">
+	export const load = async ({ fetch }) => {
+		const categories = await fetch('/api/categories.json');
+		const allCategories = await categories.json()
+		
+		return {
+			props: {
+				categories: allCategories
+			}
+		};
+	};
+</script>
 
-  <script context="module">
-    import { gql, GraphQLClient } from 'graphql-request'
+<script>
+    import PageTitle from '$lib/pageTitle.svelte';
     import CategoryTiles from '$lib/categoryTiles.svelte';
-    export async function load() {
-      const graphcms = new GraphQLClient(
-        import.meta.env.VITE_GRAPHCMS_URL,
-        {
-          headers: {},
-        }
-      )
-  
-      const query = gql`
-        query GetCategories {
-          categories {
-            slug,
-            name,
-            description
-        }
-        }
-      `
-  
-      const { categories } = await graphcms.request(query)
-  
-      return {
-        props: {
-          categories,
-        },
-      }
-    }
-  </script>
-  
-  <script>
     export let categories;
-    import PageTitle from "$lib/pageTitle.svelte";
-  </script>
+</script>
 
-    <PageTitle title='Categories' />
-    <p class="text-center my-5">
-        Voici la liste de categories
-    </p>
-  <ul class="text-center">
-    {#each categories as category}
-    <li>
-      <CategoryTiles url="/categories/{category.slug}" text='{category.name}' />
-    </li>
-    {/each}
-  </ul>
+<PageTitle title="Categories" />
+<p class="text-center my-5">Voici la liste de categories</p>
+<ul class="text-center">
+	{#each Object.values(categories) as category}
+		<li>
+			<CategoryTiles url="{category.path}" text="{category.name} [{category.posts.length}]" />
+		</li>
+	{/each}
+</ul>

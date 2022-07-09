@@ -1,8 +1,8 @@
 <script>
-    export let open;
-    export let duration;
-    export let burgerColor;
-    export let menuColor;
+    export let open = false;
+    export let duration = 2;
+    export let burgerColor = '#DDDD';
+    export let menuColor = 'EEEE';
 </script>
 
 

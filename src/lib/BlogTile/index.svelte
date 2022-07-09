@@ -1,5 +1,13 @@
 <script>
-	export let post;
+	export let post = {
+		'path': "/path/to/post",
+		'meta': {
+			'title': "Post title",
+			'excerpt': "Post excerpt",
+			'author': "Post author",
+			'date': "Post date"
+		}
+	}
 </script>
 
 <a href="{post.path}">

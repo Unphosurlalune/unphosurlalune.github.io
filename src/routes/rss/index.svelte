@@ -82,7 +82,7 @@
 </script>
 
 <PageTitle title="Des liens Rss" />
-Sources:
+Les sources:
 <div>
     <ExternalTile
         url="https://www.associationkeren.com/"
@@ -101,6 +101,10 @@ Sources:
 <br />
 <br />
 Flux:
+<p>
+	Voici des flux RSS qui on pour but d'etre utilisé par des application podcast.
+	Pour ce faire: copiez le lien qui vous interesse et collez le lien dans le menu de votre application qui permet d'ajouter un podcast.
+</p>
 <ul class="">
 	{#each flux as flu}
 		<li>

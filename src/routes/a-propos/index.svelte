@@ -7,10 +7,10 @@
 </script>
 
 <PageTitle title="A-propos" />
-<p>"UnPhoSurLalUne" se dit "info sur la lune"</p>
+<p>Un petit propos à propos d'UnPhoSurLalUne</p>
 
-<SectionType2 />
-<SectionType1 title="RSS" subtitle="Flux Utile">    
+<SectionType2 title="UnPhoSur What ??!" text='ca se dit "info sur la lune"' />
+<SectionType1 title="" subtitle="Flux Utile">    
 	<p>Des flux rss a utiliser, a écouter !</p>
 	<Button url="/rss" text="flux rss" />
 </SectionType1>

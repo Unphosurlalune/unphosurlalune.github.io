@@ -30,14 +30,8 @@
 </script>
 
 
-<div class="z-50">
+<div class="">
 	<BurgerButton {...burgerProps} bind:open />
 	<SideMenu {...menuProps} bind:open />
 </div>
 
-
-<style>
-	.z-50 {
-		z-index: 9999 !important;
-	}
-</style>
