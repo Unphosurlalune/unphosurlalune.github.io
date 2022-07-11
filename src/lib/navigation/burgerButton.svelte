@@ -43,8 +43,8 @@
 
 <style>
 	.button {
-		position: absolute;
-		top: 5px;
-		left: 8px;
+		position: fixed;
+		bottom: 50px;
+		right: 15px;
 	}
 	</style>
