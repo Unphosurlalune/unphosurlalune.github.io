@@ -1,13 +1,26 @@
 <script lang="ts">
+	import { setContext } from 'svelte';
+  	import { writable } from 'svelte/store';
+  	const layout = writable('layout1');
+  	setContext('setLayout', layout.set);
 	import Header from '$lib/Header/index.svelte';
 	import Footer from '$lib/Footer/index.svelte';
 	import '../app.css';
 </script>
 
+
 <Header />
-<main>
+{#if $layout === 'layout1'}
+<main class="layout1">
 	<slot />
 </main>
+{/if}
+
+{#if $layout === 'fullPage'}
+	<slot />
+{/if}
+
+
 <Footer />
 
 <style>

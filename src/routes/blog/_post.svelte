@@ -19,7 +19,7 @@
 <br />
 {#if categories.length}
 	<aside>
-		<h2>Posted in:</h2>
+		<h2>Categories:</h2>
 		<ul>
 			{#each categories as category}
 				<li>

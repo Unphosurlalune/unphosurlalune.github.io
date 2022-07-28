@@ -1,4 +1,6 @@
 <script>
+	/*import { getContext } from 'svelte';
+	getContext('setLayout')('fullPage');*/
 	import PageTitle from '$lib/pageTitle.svelte';
 	import ExternalTile from '$lib/externalTile.svelte';
 	let flux = [
@@ -80,9 +82,33 @@
 		}
 	];
 </script>
+	
+<PageTitle title="Des liens RSS de podcast" />
+<p>
+	Non non, nous n'avons pas de podcast (un jour peut etre?).<br>
+	Mais vous trouverez ici des liens qui peuvent vous interesser.<br>
+</p>
+<p>
+	Ce sont des lien qui on pour but d'etre utilisé par des application d'ecoute de podcast.
+	Pour ce faire: copiez le lien qui vous interesse et collez le lien dans le menu de votre application qui permet d'ajouter un podcast.
+</p>
+<br>
+<h2>Liens d'enseignements de Jean-Marc Thobois</h2>
+<p>
+	Ce ne sont pas de "vrai" podcast mais nous avons créé les flux ci-dessous afin de faciliter l'ecoute de certain de ses enseignements.
+	A la base nous l'avons fait pour nous pourquoi pas vous les partager?
+	Si vous voulez aller directement a la source elles y sont plus bas sur cette page.
+</p>
+<ul class="">
+	{#each flux as flu}
+		<li>
+			<ExternalTile text={flu.title} url="{flu.url}" />
+		</li>
+	{/each}
+</ul>
 
-<PageTitle title="Des liens Rss" />
-Les sources:
+<br><br>
+<h2>Les sources:</h2>
 <div>
     <ExternalTile
         url="https://www.associationkeren.com/"
@@ -98,21 +124,6 @@ Les sources:
 	/>
     
 </div>
-<br />
-<br />
-Flux:
-<p>
-	Voici des flux RSS qui on pour but d'etre utilisé par des application podcast.
-	Pour ce faire: copiez le lien qui vous interesse et collez le lien dans le menu de votre application qui permet d'ajouter un podcast.
-</p>
-<ul class="">
-	{#each flux as flu}
-		<li>
-			<ExternalTile text={flu.title} url="{flu.url}" />
-		</li>
-	{/each}
-</ul>
-
 <style>
 	p {
 		margin-bottom: 10px;

@@ -1,6 +1,7 @@
 <script context="module">
-    import BlogTile from '$lib/BlogTile/index.svelte';
-import CategoryTiles from '$lib/categoryTiles.svelte';
+  
+    import Button from '$lib/buttons/button.svelte';
+    import CategoryTiles from '$lib/categoryTiles.svelte';
     import HomeTitle from '$lib/homeTitle.svelte';
     export const load = async ({ fetch }) => {
     const posts = await fetch('/api/posts.json')
@@ -17,7 +18,6 @@ import CategoryTiles from '$lib/categoryTiles.svelte';
   <script>
     export let posts
   </script>
-  
 
 
  <HomeTitle title='UnPhoSurLaLune' />
@@ -28,8 +28,7 @@ import CategoryTiles from '$lib/categoryTiles.svelte';
     C'est pourquoi nous avons créé ce blog.
   </p>
   <br>
-
-  2 Dernier articles
+  <h2>2 Dernier blogs</h2>
   <ul>
     {#each posts as post}
     <li>
@@ -37,8 +36,14 @@ import CategoryTiles from '$lib/categoryTiles.svelte';
     </li>
     {/each}
   </ul>
-
-
+  <br>
+  <p>
+    Pour en lire d'autre ? >>> <CategoryTiles url='/blog' text='Tous les blogs' />
+  </p>
+<br>
+  <h2>Flux RSS de podcast</h2>
+  <p>Des flux rss a utiliser, a écouter ! c'est par la >>> <CategoryTiles url="/rss" text="flux rss" /></p>
+	
   <style>
     ul {
       list-style-type: none;
