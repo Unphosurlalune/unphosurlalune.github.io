@@ -1,5 +1,9 @@
 <script>
-	export let book;
+	export let book = {
+		originalName: "Book name",
+		desc: "",
+		languages:[]
+	};
 	import LangFlag from './lang_flag.svelte';
 </script>
 
