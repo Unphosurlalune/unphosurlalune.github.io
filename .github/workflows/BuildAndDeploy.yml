@@ -23,8 +23,6 @@ jobs:
           npm install
           npm run build
           touch build/.nojekyll
-        env:
-          VITE_GRAPHCMS_URL: https://api-eu-central-1.graphcms.com/v2/ckwjhq3s82koy01zed0peabn6/master
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4
