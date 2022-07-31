@@ -85,19 +85,19 @@
 	
 <PageTitle title="Des liens RSS de podcast" />
 <p>
-	Non non, nous n'avons pas de podcast (un jour peut etre?).<br>
-	Mais vous trouverez ici des liens qui peuvent vous interesser.<br>
+	Non non, nous n'avons pas de podcast (un jour peut être ?).<br>
+	Mais vous trouverez ici des liens qui peuvent vous intéresser.<br>
 </p>
 <p>
-	Ce sont des lien qui on pour but d'etre utilisé par des application d'ecoute de podcast.
-	Pour ce faire: copiez le lien qui vous interesse et collez le lien dans le menu de votre application qui permet d'ajouter un podcast.
+	Ce sont des liens qui ont pour but d'être utilisés par des applications d'écoute de podcast.
+	Pour ce faire : copiez le lien qui vous intéresse et collez le lien dans le menu de votre application qui permet d'ajouter un podcast.
 </p>
 <br>
 <h2>Liens d'enseignements de Jean-Marc Thobois</h2>
 <p>
-	Ce ne sont pas de "vrai" podcast mais nous avons créé les flux ci-dessous afin de faciliter l'ecoute de certain de ses enseignements.
-	A la base nous l'avons fait pour nous pourquoi pas vous les partager?
-	Si vous voulez aller directement a la source elles y sont plus bas sur cette page.
+	Ce ne sont pas de "vrai" podcast mais nous avons créé les flux ci-dessous afin de faciliter l'écoute de certains de ses enseignements.
+	À la base nous l'avons fait pour nous pourquoi pas vous les partager ?
+	Si vous voulez aller directement à la source elles y sont indiquées plus bas sur cette page.
 </p>
 <ul class="">
 	{#each flux as flu}

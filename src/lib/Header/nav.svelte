@@ -1,10 +1,17 @@
 <script>
 	import Button from '$lib/buttons/button.svelte';
 	import { page } from '$app/stores';
+	import { navigating } from '$app/stores';
 	import Sidebar from '$lib/navigation/sidebar.svelte';
 	import Hamburger from '$lib/navigation/hamburger.svelte';
-
+	
 	export let open = false;
+	
+    let handleClose = function() {
+        open = false
+    }
+    $: if($navigating) handleClose();
+
 </script>
 
 <nav class="z-200">
@@ -25,9 +32,9 @@
 		</div>
 		<Hamburger bind:open/>
 		<Sidebar bind:open>
-			<Button url="/blog" text='Blog'  on:click={() => (open = !open)} /><br>
-			<Button url="/categories" text='Categories' on:click={() => (open = !open)} /><br>
-			<Button url="/a-propos" text='A propos' on:click={() => (open = !open)} /><br>
+			<Button url="/blog" text='Blog' /><br>
+			<Button url="/categories" text='Categories'/><br>
+			<Button url="/a-propos" text='A propos' /><br>
 		</Sidebar>
 	</div>
 </nav>

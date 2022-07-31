@@ -23,8 +23,8 @@
  <HomeTitle title='UnPhoSurLaLune' />
   <p>Bonjour et bienvenue sur notre blog.</p>
   <p>
-    Vous trouverez ici un peut de tout mais surtout du nous...
-    L'idée c'est d'etre authentique, sincère et de partager.
+    Vous trouverez ici un peu de tout mais surtout du nous...
+    L'idée c'est d'être authentique, sincère et de partager.
     C'est pourquoi nous avons créé ce blog.
   </p>
   <br>
@@ -42,7 +42,7 @@
   </p>
 <br>
   <h2>Flux RSS de podcast</h2>
-  <p>Des flux rss a utiliser, a écouter ! c'est par la >>> <CategoryTiles url="/rss" text="flux rss" /></p>
+  <p>Des flux RSS à utiliser, à écouter ! C’est par la >>> <CategoryTiles url="/rss" text="flux rss" /></p>
 	
   <style>
     ul {

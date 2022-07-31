@@ -3,7 +3,7 @@
 </script>
 
 <aside class="absolute w-full h-full bg-gray-200 border-r-2 shadow-lg" class:open>
-	<nav class="p-12 pr-14 text-xl">
+	<nav class="pb-16 pt-6">
 		<slot />
 	</nav>
 </aside>
@@ -14,7 +14,7 @@
 		transition: bottom 0.3s ease-in-out;
 		height: auto;
 		position: fixed;
-		text-align: right;
+		text-align: center;
 	}
 	
 	.open {

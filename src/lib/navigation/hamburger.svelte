@@ -1,4 +1,6 @@
 <script>
+import Button from "$lib/buttons/button.svelte";
+
 	export let open = false
 </script>
 
@@ -27,6 +29,11 @@
 		position: fixed;
 		bottom: 55px;
 		right: 0px;
+		padding: 8px 5px;
+		border: 2px solid var(--color__button-background);
+		border-radius: 4px;
+		transition: border-radius 0.3s ease-in-out;
+		transition: border-color 1s ease-in-out;
 	}
 	
 	.open svg {
@@ -43,5 +50,9 @@
 	
   .open #bottom {
 		transform: translate(-12px, 9px) rotate(-45deg)
+	}
+	.open {
+		border: 2px solid var(--color__background);
+		border-radius: 100%;
 	}
 </style>

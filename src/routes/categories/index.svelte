@@ -18,7 +18,7 @@
 </script>
 
 <PageTitle title="Categories" />
-<p class="text-center my-5">Voici la liste de categories</p>
+<p class="text-center my-5">Voici la liste des catégories</p>
 <ul class="text-center">
 	{#each Object.values(categories) as category}
 		<li>
