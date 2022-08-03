@@ -4,7 +4,6 @@
 
     // Buttons
     import Button from '$lib/buttons/button.svelte';
-    import Hamburger from '$lib/buttons/hamburger.svelte';
     
     // Page
     import PageTitle from '$lib/pageTitle.svelte';
@@ -29,8 +28,6 @@ BlogTile:
 <hr><br>
 Button
 <Button />
-Hamburger
-<Hamburger />
 
 <hr><br>
 CategroryTiles

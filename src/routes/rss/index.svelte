@@ -1,6 +1,7 @@
 <script>
 	/*import { getContext } from 'svelte';
 	getContext('setLayout')('fullPage');*/
+	import CopyValue from '$lib/buttons/copyValue.svelte';
 	import PageTitle from '$lib/pageTitle.svelte';
 	import ExternalTile from '$lib/externalTile.svelte';
 	let flux = [
@@ -79,6 +80,10 @@
 		{
 			url: 'rss/jmt/evangile-de-matthieu.xml',
 			title: "Lecture hébraïque de l'évangile de Matthieu"
+		},
+		{
+			url: 'rss/jmt/les-propheties-de-daniel.xml',
+			title: "Les prophéties de Daniel"
 		}
 	];
 </script>
@@ -102,7 +107,8 @@
 <ul class="">
 	{#each flux as flu}
 		<li>
-			<ExternalTile text={flu.title} url="{flu.url}" />
+			<CopyValue text="{flu.title}" value="https://unphosurlalune.github.io/{flu.url}"/>
+			<!-- <ExternalTile text={flu.title} url="{flu.url}" /> -->
 		</li>
 	{/each}
 </ul>

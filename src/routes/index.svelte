@@ -1,6 +1,4 @@
 <script context="module">
-  
-    import Button from '$lib/buttons/button.svelte';
     import CategoryTiles from '$lib/categoryTiles.svelte';
     import HomeTitle from '$lib/homeTitle.svelte';
     export const load = async ({ fetch }) => {
@@ -42,8 +40,7 @@
   </p>
 <br>
   <h2>Flux RSS de podcast</h2>
-  <p>Des flux RSS à utiliser, à écouter ! C’est par la >>> <CategoryTiles url="/rss" text="flux rss" /></p>
-	
+  <p>Des flux RSS à utiliser, à écouter ! C'est par là >>> <CategoryTiles url="/rss" text="flux rss" /></p>s
   <style>
     ul {
       list-style-type: none;

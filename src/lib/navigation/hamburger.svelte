@@ -30,12 +30,12 @@ import Button from "$lib/buttons/button.svelte";
 		bottom: 55px;
 		right: 0px;
 		padding: 8px 5px;
-		border: 2px solid var(--color__button-background);
+		border: 2px solid #6b7280;
 		border-radius: 4px;
 		transition: border-radius 0.3s ease-in-out;
 		transition: border-color 1s ease-in-out;
 	}
-	
+
 	.open svg {
 		transform: scale(0.7)
 	}
