@@ -40,7 +40,7 @@
   </p>
 <br>
   <h2>Flux RSS de podcast</h2>
-  <p>Des flux RSS à utiliser, à écouter ! C'est par là >>> <CategoryTiles url="/rss" text="flux rss" /></p>s
+  <p>Des flux RSS à utiliser, à écouter ! C'est par là >>> <CategoryTiles url="/rss" text="flux rss" /></p>
   <style>
     ul {
       list-style-type: none;
