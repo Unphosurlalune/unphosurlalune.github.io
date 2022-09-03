@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Les prophéties de Daniel et leur accomplissement dans notre temps</title>
+    <author>Jean-Marc Thobois</author>
+    <itunes:author>Jean-Marc Thobois</itunes:author>
+    <itunes:email>association.keren@gmail.com</itunes:email>
+    <itunes:image href="https://unphosurlalune.github.io/rss/jmt/podcast_les-propheties-de-daniel.jpg" />
+    <itunes:category text="Christianity" />
+    <language>fr-FR</language>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>001 - Partie 1</title>
+      <enclosure url='https://archive.org/download/lpddeladnt_JMT/lpddeladnt_001.mp3' type="audio/mpeg" />
+      <itunes:duration>43:36</itunes:duration>
+      <itunes:subtitle>Les prophéties de Daniel et leur accomplissement dans notre temps</itunes:subtitle>
+      <itunes:author>Jean-Marc Thobois</itunes:author>
+    </item>
+    <item>
+      <title>002 - Partie 2</title>
+      <enclosure url='https://archive.org/download/lpddeladnt_JMT/lpddeladnt_002.mp3' type="audio/mpeg" />
+      <itunes:duration>60:17</itunes:duration>
+      <itunes:subtitle>Les prophéties de Daniel et leur accomplissement dans notre temps</itunes:subtitle>
+      <itunes:author>Jean-Marc Thobois</itunes:author>
+    </item>
+    <item>
+      <title>003 - Partie 3</title>
+      <enclosure url='https://archive.org/download/lpddeladnt_JMT/lpddeladnt_003.mp3' type="audio/mpeg" />
+      <itunes:duration>58:39</itunes:duration>
+      <itunes:subtitle>Les prophéties de Daniel et leur accomplissement dans notre temps</itunes:subtitle>
+      <itunes:author>Jean-Marc Thobois</itunes:author>
+    </item>
+    <item>
+      <title>004 - Partie 4</title>
+      <enclosure url='https://archive.org/download/lpddeladnt_JMT/lpddeladnt_004.mp3' type="audio/mpeg" />
+      <itunes:duration>54:41</itunes:duration>
+      <itunes:subtitle>Les prophéties de Daniel et leur accomplissement dans notre temps</itunes:subtitle>
+      <itunes:author>Jean-Marc Thobois</itunes:author>
+    </item>
+    <item>
+      <title>005 - Partie 5</title>
+      <enclosure url='https://archive.org/download/lpddeladnt_JMT/lpddeladnt_005.mp3' type="audio/mpeg" />
+      <itunes:duration>65:29</itunes:duration>
+      <itunes:subtitle>Les prophéties de Daniel et leur accomplissement dans notre temps</itunes:subtitle>
+      <itunes:author>Jean-Marc Thobois</itunes:author>
+    </item>
+    <item>
+      <title>006 - Partie 6</title>
+      <enclosure url='https://archive.org/download/lpddeladnt_JMT/lpddeladnt_006.mp3' type="audio/mpeg" />
+      <itunes:duration>63:45</itunes:duration>
+      <itunes:subtitle>Les prophéties de Daniel et leur accomplissement dans notre temps</itunes:subtitle>
+      <itunes:author>Jean-Marc Thobois</itunes:author>
+    </item>
+    <item>
+      <title>007 - Partie 7</title>
+      <enclosure url='https://archive.org/download/lpddeladnt_JMT/lpddeladnt_007.mp3' type="audio/mpeg" />
+      <itunes:duration>66:11</itunes:duration>
+      <itunes:subtitle>Les prophéties de Daniel et leur accomplissement dans notre temps</itunes:subtitle>
+      <itunes:author>Jean-Marc Thobois</itunes:author>
+    </item>
+    <item>
+      <title>008 - Partie 8</title>
+      <enclosure url='https://archive.org/download/lpddeladnt_JMT/lpddeladnt_008.mp3' type="audio/mpeg" />
+      <itunes:duration>59:27</itunes:duration>
+      <itunes:subtitle>Les prophéties de Daniel et leur accomplissement dans notre temps</itunes:subtitle>
+      <itunes:author>Jean-Marc Thobois</itunes:author>
+    </item>
+    <item>
+      <title>009 - Partie 9</title>
+      <enclosure url='https://archive.org/download/lpddeladnt_JMT/lpddeladnt_009.mp3' type="audio/mpeg" />
+      <itunes:duration>66:03</itunes:duration>
+      <itunes:subtitle>Les prophéties de Daniel et leur accomplissement dans notre temps</itunes:subtitle>
+      <itunes:author>Jean-Marc Thobois</itunes:author>
+    </item>
+    <item>
+      <title>010 - Partie 10</title>
+      <enclosure url='https://archive.org/download/lpddeladnt_JMT/lpddeladnt_010.mp3' type="audio/mpeg" />
+      <itunes:duration>62:31</itunes:duration>
+      <itunes:subtitle>Les prophéties de Daniel et leur accomplissement dans notre temps</itunes:subtitle>
+      <itunes:author>Jean-Marc Thobois</itunes:author>
+    </item>
+    <item>
+      <title>011 - Partie 11</title>
+      <enclosure url='https://archive.org/download/lpddeladnt_JMT/lpddeladnt_011.mp3' type="audio/mpeg" />
+      <itunes:duration>27:02</itunes:duration>
+      <itunes:subtitle>Les prophéties de Daniel et leur accomplissement dans notre temps</itunes:subtitle>
+      <itunes:author>Jean-Marc Thobois</itunes:author>
+    </item>
+  </channel>
+</rss>
