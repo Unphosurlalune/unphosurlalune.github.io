@@ -1,21 +1,9 @@
-<script context="module">
+<script>
     import BlogTile from '$lib/BlogTile/index.svelte';
     import PageTitle from '$lib/pageTitle.svelte';
     
-    export const load = async ({ fetch }) => {
-    const posts = await fetch('/api/posts.json')
-    const allPosts = await posts.json()
-
-  return {
-    props: {
-      posts: allPosts
-    }
-  }
-}
-  </script>
-  
-  <script>
-    export let posts
+     /** @type {import('./$types').PageData} */
+    export let data;
   </script>
   
   <PageTitle title='Blog' />
@@ -23,7 +11,7 @@
     Articles du plus récent au plus ancien...
   </p>
   <ul>
-    {#each posts as post}
+    {#each data.posts as post}
     <li>
       <BlogTile post={post} />
     </li>

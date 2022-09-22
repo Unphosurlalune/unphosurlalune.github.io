@@ -15,7 +15,7 @@
 		<div class="flex items-center">
 			<h2 class="text-xl text-gray-800 font-medium mr-auto">{post.meta.title}</h2>
 		</div>
-		<p class="text-sm text-gray-700 mt-4">
+		<p class="text-sm text-gray-700 mt-4 text-left">
 			{post.meta.excerpt}
 		</p>
 		<p class="text-gray-600 font-semibold tracking-tighter" />
