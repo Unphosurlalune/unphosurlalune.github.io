@@ -1,0 +1,1 @@
+const n=async({params:s,fetch:e})=>{const t=s.slug,o=(await(await e("../api/posts")).json()).filter(a=>a.meta.categories.includes(t));return{category:t,posts:o}},p=Object.freeze(Object.defineProperty({__proto__:null,load:n},Symbol.toStringTag,{value:"Module"}));export{p as _,n as l};
