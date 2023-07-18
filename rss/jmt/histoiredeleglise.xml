@@ -1,0 +1,1444 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Série 100 - Doctrine de Dieu</title>
+        <author>Enseignements - Jean-Marc Thobois</author>
+        <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+        <itunes:email>webmaster@enseignements-bibliques-jmthobois.com</itunes:email>
+        <itunes:image href="https://unphosurlalune.github.io/rss/jmt/histoiredelabible.jpg"/>
+        <itunes:category text="Christianity"/>
+        <itunes:owner>
+            <itunes:name>Enseignements - Jean-Marc Thobois</itunes:name>
+            <itunes:email>webmaster@enseignements-bibliques-jmthobois.com</itunes:email>
+        </itunes:owner>
+        <description>Podcast Feed pour ecouter les enseignement de JMT provenent du site:
+            http://www.enseignements-bibliques-jmthobois.com
+        </description>
+        <language>fr-FR</language>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>001 - Préhistoire de l'Eglise - Contexte général 1</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:01 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/001-Prehistoire-de-l-Eglise-Contexte-general-1.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>002 - Préhistoire de l'Eglise - Contexte général 2</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:02 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/002-Prehistoire-de-l-Eglise-Contexte-general-2.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>003 - Préhistoire de l'Eglise - le milieu judéen</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:03 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/003-Prehistoire-de-l-Eglise-le-milieu-judeen.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>004 - Préhistoire de l'Eglise - le milieu galiléen</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:04 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/004-Prehistoire-de-l-Eglise-le-milieu-galileen.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>005 - Préhistoire de l'Eglise - Cercles apocalyptiques - Secte de Qumran 1</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:05 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/005-Prehistoire-de-l-Eglise-Cercles-apocalyptiques-Secte-de-Qumran-1.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>006 - Préhistoire de l'Eglise - Qumran 2</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:06 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/006-Prehistoire-de-l-Eglise-Qumran-2.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>007 - Préhistoire de l'Eglise - Qumran 3</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:07 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/007-Prehistoire-de-l-Eglise-Qumran-3.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>008 - Préhistoire de l'Eglise - Qumran 4 - Messianisme dans l'AT et le NT</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:08 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/008-Prehistoire-de-l-Eglise-Qumran-4-Messianisme-dans-l-AT-et-le-NT.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>009 - Préhistoire de l'Eglise - Qumran 5 - Théologie</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:09 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/009-Prehistoire-de-l-Eglise-Qumran-5-Theologie.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>010 - Communauté de Qumran - L'élection dans les cercles apocalyptiques</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:10 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/010-Communaute-de-Qumran-L-election-dans-les-cercles-apocalyptiques.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>012 - La chair et l'esprit - Relation entre Eglise et Etat</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:12 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/012-La-chair-et-l-esprit-Relation-entre-Eglise-et-Etat.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>013 - L'Eglise de la Pentecôte au 1er siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:13 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/013-L-Eglise-de-la-Pentecote-au-1er-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>016 - Les païens dans l'église - Voyages de Paul</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:16 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/016-Les-paiens-dans-l-eglise-Voyages-de-Paul.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>017 - 3e voyage de Paul</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:17 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/017-3e-voyage-de-Paul.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>018 - Paul devant le pouvoir romain</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:18 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/018-Paul-devant-le-pouvoir-romain.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>019 - L'âge des Pères</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:19 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/019-L-age-des-Peres.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>020 - Les persécutions</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:20 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/020-Les-persecutions.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>021 - L'église du 2e siècle - les hérésies</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:21 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/021-L-eglise-du-2e-siecle-les-heresies.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>023 - L'église au 3e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:23 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/023-L-eglise-au-3e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>024 - L'Eglise à la fin du 3e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:24 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/024-L-Eglise-a-la-fin-du-3e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>025 - L'Eglise au 4e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:25 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/025-L-Eglise-au-4e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>026 - Le Concile</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:26 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/026-Le-Concile.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>027 - L'Eglise à l'époque de Constantin et de Julien</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:27 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/027-L-Eglise-a-l-epoque-de-Constantin-et-de-Julien.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>028 - L'Eglise à l'époque de Constantin</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:28 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/028-L-Eglise-a-l-epoque-de-Constantin.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>029 - L'Eglise à l'époque de Constantin et de Julien</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:29 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/029-L-Eglise-a-l-epoque-de-Constantin-et-de-Julien.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>030 - Les Donatistes et les Ariens</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:30 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/030-Les-Donatistes-et-les-Ariens.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>031 - Le culte dans l'église au 4e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:31 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/031-Le-culte-dans-l-eglise-au-4e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>032 - L'église au 4e siècle - 1</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:32 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/032-L-eglise-au-4e-siecle-1.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>033 - L'église au 4e siècle - 2</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:33 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/033-L-eglise-au-4e-siecle-2.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>034 - L'église au 4e siècle - Jérôme, Vulgate, Monachisme</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:34 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/034-L-eglise-au-4e-siecle-Jerome-Vulgate-Monachisme.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>035 - L'église au 5e siècle 1</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:35 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/035-L-eglise-au-5e-siecle-1.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>036 - L'église au 5e siècle 2</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:36 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/036-L-eglise-au-5e-siecle-2.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>037 - Etude des grandes invasions</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:37 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/037-Etude-des-grandes-invasions.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>038 - L'église au 6ème siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:38 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/038-L-eglise-au-6eme-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>039 - L'église celte - Grégoire le Grand</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:39 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/039-L-eglise-celte-Gregoire-le-Grand.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>040 - L'église au 6e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:40 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/040-L-eglise-au-6e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>041 - Le monothéisme - L'église et le moyen âge</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:41 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/041-Le-monotheisme-L-eglise-et-le-moyen-age.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>042 - Les Mérovingiens - L'église au 8e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:42 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/042-Les-Merovingiens-L-eglise-au-8e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>043 - L'église au 8e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:43 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/043-L-eglise-au-8e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>044 - L'église à l'époque de Charlemagne - L'église au 9e siècle - introduction en Occident</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:44 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/044-L-eglise-a-l-epoque-de-Charlemagne-L-eglise-au-9e-siecle-introduction-en-" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>045 - L'Eglise au 9e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:45 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/045-L-Eglise-au-9e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>046 - L'église au 9e siècle - Missions en Saxe, Scandinavie et en Orient</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:46 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/046-L-eglise-au-9e-siecle-Missions-en-Saxe-Scandinavie-et-en-Orient.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>047 - L'église aux 9e et 10e siècles</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:47 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/047-L-eglise-aux-9e-et-10e-siecles.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>048 - L'église au 10e siècle - La réforme de Cluny</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:48 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/048-L-eglise-au-10e-siecle-La-reforme-de-Cluny.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>049 - L'église au 11e siècle - Grand schisme entre Orient et Occident - L'église en Occident</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:49 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/049-L-eglise-au-11e-siecle-Grand-schisme-entre-Orient-et-Occident-L-eglise-en-" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>050 - Les croisades</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:50 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/050-Les-croisades.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>052 - 11e siècle - Les croisades</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:52 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/052-11e-siecle-Les-croisades.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>053 - 12e siècle - Les Croisades</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:53 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/053-12e-siecle-Les-Croisades.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>054 - Croisades - Règne de Baudouin 1er roi de Jérusalem</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:54 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/054-Croisades-Regne-de-Baudouin-1er-roi-de-Jerusalem.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>055 - 12e siècle - suite des croisades - Foulques d'Anjou, roi de Jérusalem - 2e croisade, Bernard de Clairvaux, Cathares</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:55 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/055-12e-siecle-suite-des-croisades-Foulques-d-Anjou-roi-de-Jerusalem-2e-" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>056 - 12e siècle - suite des croisades - les Cathares</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:56 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/056-12e-siecle-suite-des-croisades-les-Cathares.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>057 - Croisades après la mort de Beaudoin IV - 3e Croisade Richard Coeur de Lion - 4e croisafe - La Syrie Franque</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:57 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/057-Croisades-apres-la-mort-de-Beaudoin-IV-3e-Croisade-Richard-Coeur-de-Lion-4e" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>058 - 12e siècle - suite des Croisades</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:58 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/058-12e-siecle-suite-des-Croisades.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>059 - 13e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:59 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/059-13e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>060 - 13e - Hérésie cathare - Vaudois - Inquisition - Saint Office</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:60 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/060-13e-Heresie-cathare-Vaudois-Inquisition-Saint-Office.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>061 - 13e - Croisades, Orient Chrétien et Occident chrétien - Ordres monachiques - François d'Assise</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:61 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/061-13e-Croisades-Orient-Chretien-et-Occident-chretien-Ordres-monachiques-" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>062 - 13e siècle - 5e et 6e croisades - Concile Latran - Croisade des enfants</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:62 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/062-13e-siecle-5e-et-6e-croisades-Concile-Latran-Croisade-des-enfants.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>063 - Croisade Frédéric II - Nouvelle croisade - Gengis Lehan - 7e croisade - Mamelouks</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:63 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/063-Croisade-Frederic-II-Nouvelle-croisade-Gengis-Lehan-7e-croisade-Mamelouks." type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>064 - Croisades - Juifs au 13e - Antisémitisme - Immigration juive à Sion</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:64 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/064-Croisades-Juifs-au-13e-Antisemitisme-Immigration-juive-a-Sion.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>065 - 13e siècle - Apogée papauté - culture occidentale - scolastique Thomas d'Aquin</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:65 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/065-13e-siecle-Apogee-papaute-culture-occidentale-scolastique-Thomas-d-Aquin." type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>066 - Eglise au 13e siècle - Début de la science expérimentale</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:66 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/066-Eglise-au-13e-siecle-Debut-de-la-science-experimentale.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>067 - Déclin papauté 14e - Philippe le Bel - Papauté Avignon - Déclin monachisme - précurseur Réforme</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:67 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/067-Declin-papaute-14e-Philippe-le-Bel-Papaute-Avignon-Declin-monachisme-" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>068 - L'église au 14e - Les préréformateurs</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:68 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/068-L-eglise-au-14e-Les-prereformateurs.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>069 - 14e siècle - Persécution des mouvements évangéliques - Déclin du MA - idée de chrétienté et ses conséquences aujourd'hui</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:69 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/069-14e-siecle-Persecution-des-mouvements-evangeliques-Declin-du-MA-idee-de-" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>070 - Précurseurs de la Réforme - Savonarol à Florence</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:70 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/070-Precurseurs-de-la-Reforme-Savonarol-a-Florence.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>071 - Wicliff - Préparation Réforme - Chute Constantinople - Unification Espagne</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:71 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/071-Wicliff-Preparation-Reforme-Chute-Constantinople-Unification-Espagne.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>072 - Fin 15e - début 16e - Origines de la Réforme - Luther - début de sa vie</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:72 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/072-Fin-15e-debut-16e-Origines-de-la-Reforme-Luther-debut-de-sa-vie.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>073 - La vie de Luther - Conversion - Thèses - Diète de Worms - rupture avec papauté</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:73 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/073-La-vie-de-Luther-Conversion-Theses-Diete-de-Worms-rupture-avec-papaute.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>074 - Vie de Luther - Son oeuvre, ses écrits, ses relations avec les autres réformateurs</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:74 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/074-Vie-de-Luther-Son-oeuvre-ses-ecrits-ses-relations-avec-les-autres-reformateurs.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>075 - La Réforme - Colloque de Spir - Confesssion d'Augsbourg</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:75 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/075-La-Reforme-Colloque-de-Spir-Confesssion-d-Augsbourg.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>076 - Vie de Luther - Après Ausbourg - Réforme en Suisse</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:76 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/076-Vie-de-Luther-Apres-Ausbourg-Reforme-en-Suisse.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>077 - Réforme en Suisse (Zwingli) et en France (Calvin)</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:77 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/077-Reforme-en-Suisse-Zwingli-et-en-France-Calvin.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>078 - Réforme - France - Genève - Cheminement de Calvin jusqu'à Genève</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:78 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/078-Reforme-France-Geneve-Cheminement-de-Calvin-jusqu-a-Geneve.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>079 - Calvin et Farel à Genève - leur ministère</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:79 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/079-Calvin-et-Farel-a-Geneve-leur-ministere.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>080 - Réforme - Calvin à Genève - Réforme en Europe centrale et les pays nordiques</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:80 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/080-Reforme-Calvin-a-Geneve-Reforme-en-Europe-centrale-et-les-pays-nordiques.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>081 - Réforme en Angleterre (sous Elisabeth) et en Ecosse</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:81 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/081-Reforme-en-Angleterre-sous-Elisabeth-et-en-Ecosse.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>082 - Réforme en Ecosse, dans les Flandres, l'Italie et l'Espagne</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:82 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/082-Reforme-en-Ecosse-dans-les-Flandres-l-Italie-et-l-Espagne.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>083 - Réforme - Anabaptistes - 3e courant de la Réforme</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:83 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/083-Reforme-Anabaptistes-3e-courant-de-la-Reforme.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>084 - Réforme - Anabaptistes - Concile de Trente - Jésuites</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:84 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/084-Reforme-Anabaptistes-Concile-de-Trente-Jesuites.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>085 - Réforme - Jésuites - Expansion du catholicisme en Asie, Afrique et Amérique latine</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:85 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/085-Reforme-Jesuites-Expansion-du-catholicisme-en-Asie-Afrique-et-Amerique-latine.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>086 - Guerres de religion en Allemagne, Hollande et France</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:86 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/086-Guerres-de-religion-en-Allemagne-Hollande-et-France.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>087 - Les guerres de religion</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:87 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/087-Les-guerres-de-religion.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>088 - L'Eglise au 18e - Guerre de 30 ans - Edit de Nantes en France</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:88 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/088-L-Eglise-au-18e-Guerre-de-30-ans-Edit-de-Nantes-en-France.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>089 - Révocation de l'Edit de Nantes</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:89 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/089-Revocation-de-l-Edit-de-Nantes.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>090 - Début du règne de Louis XIV</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:90 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/090-Debut-du-regne-de-Louis-XIV.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>091 - Les dragonnades</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:91 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/091-Les-dragonnades.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>092 - Révocation de l'Edit de Nantes</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:92 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/092-Revocation-de-l-Edit-de-Nantes.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>093 - Conséquences de la révocation de l'Edit de Nantes</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:93 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/093-Consequences-de-la-revocation-de-l-Edit-de-Nantes.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>094 - Révocation de l'Edit de Nantes (suite)</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:94 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/094-Revocation-de-l-Edit-de-Nantes-suite.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>095 - Vie des Protestants au Poitou pendant la révocation</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:95 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/095-Vie-des-Protestants-au-Poitou-pendant-la-revocation.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>096 - Les assemblées du désert</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:96 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/096-Les-assemblees-du-desert.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>097 - Le Refuge</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:97 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/097-Le-Refuge.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>098 - Le Gallicanisme</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:98 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/098-Le-Gallicanisme.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>099 - Histoire intérieure des églises protestantes</title>
+            <pubDate>Mon, 1 Jan 2002 00:00:99 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/099-Histoire-interieure-des-eglises-protestantes.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>100 - Le XVIIe siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:00 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/100-Le-XVIIe-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>101 - Les galères</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:01 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/101-Les-galeres.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>102 - XVIIe siècle - la guerre des Cévennes</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:02 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/102-XVIIe-siecle-la-guerre-des-Cevennes.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>103 - Révolte des Camisards - Roland Cavalier</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:03 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/103-Revolte-des-Camisards-Roland-Cavalier.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>104 - La vie des Camisards</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:04 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/104-La-vie-des-Camisards.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>105 - La famille Durand</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:05 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/105-La-famille-Durand.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>106 - La famille Durand (suite)</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:06 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/106-La-famille-Durand-suite.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>107 - La marchevers la tolérance</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:07 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/107-La-marchevers-la-tolerance.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>108 - Les Luthériens</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:08 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/108-Les-Lutheriens.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>109 - Eglises luthériennes sous la Révolution et sous Napoléon - Philosophie des Lumières</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:09 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/109-Eglises-lutheriennes-sous-la-Revolution-et-sous-Napoleon-Philosophie-des-Lumieres.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>110 - Les Lumières</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:10 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/110-Les-Lumieres.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>111 - Les Déistes</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:11 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/111-Les-Deistes.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>112 - L'Europe avant la Révolution</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:12 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/112-L-Europe-avant-la-Revolution.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>113 - Révolution - Catholicisme et protestantismes dans l'ouest - bilan de la révolution sur un plan religieux</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:13 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/113-Revolution-Catholicisme-et-protestantismes-dans-l-ouest-bilan-de-la-revolution-sur-un-plan-religieux.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>114 - Le réveil Morave</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:14 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/114-Le-reveil-Morave.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>115 - Le comte de Zinzerdorf et le réveil morave</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:15 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/115-Le-comte-de-Zinzerdorf-et-le-reveil-morave.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>116 - Wesley</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:16 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/116-Wesley.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>117 - Wesley</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:17 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/117-Wesley.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>118 - Les Missions</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:18 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/118-Les-Missions.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>119 - 1- Le XIXe siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:19 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/119-1-Le-XIXe-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>119 - 2- Le XIXe siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:19 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/119-2-Le-19e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>120 - Félix Neff</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:20 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/120-Felix-Neff.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>121 - Les débuts du réveil baptiste</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:21 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/121-Les-debuts-du-reveil-baptiste.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>122 - Le protestantisme en France à la fin du 19e</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:22 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/122-Le-protestantisme-en-France-a-la-fin-du-19e.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>123 - Le protestantisme de langue française</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:23 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/123-Le-protestantisme-de-langue-française.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>124 - Le protestantisme britannique au 19e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:24 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/124-Le-protestantisme-britannique-au-19e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>125 - Spurgeon (suite)</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:25 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/125-Spurgeon-suite.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>126 - Le réveil salutiste</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:26 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/126-Le-reveil-salutiste.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>127 - L'armée du Salut</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:27 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/127-L-armee-du-Salut.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>128 - Le réveil de Plymouth - suite</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:28 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/128-Le-reveil-de-Plymouth-suite.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>129 - Le protestantisme nord américain</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:29 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/129-Le-protestantisme-nord-americain.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>130 - Le protestantisme américain</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:30 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/130-Le-protestantisme-americain.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>131 - 1- Moody</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:31 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/131-1-Moody.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>131 - 2- Protestantisme allemand au 19e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:31 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/131-2-Protestantisme-allemand-au-19e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>132 - Le protestantisme au 19e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:32 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/132-Le-protestantisme-au-19e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>133 - Le catholicisme au 19e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:33 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/133-Le-catholicisme-au-19e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>134 - L'église catholique au 19e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:34 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/134-L-eglise-catholique-au-19e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>135 - L'église catholique en Allemagne au 19e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:35 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/135-L-eglise-catholique-en-Allemagne-au-19e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>136 - Naissance de l'église judéo chrétienne en Bessarabie</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:36 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/136-Naissance-de-l-eglise-judeo-chretienne-en-Bessarabie.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>137 - hechler</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:37 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/137-hechler.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>138 - L'élan missionnaire au 19e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:38 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/138-L-elan-missionnaire-au-19e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>139 - Les Missions</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:39 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/139-Les-Missions.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>140 - Evangélisation de la Chine</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:40 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/140-Evangelisation-de-la-Chine.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>140 - Hudson Taylor - Mission au 19e - Missions catholiques 19e</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:40 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/140-Hudson-Taylor-Mission-au-19e-Missions-catholiques-19e.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>141 - Le 20e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:41 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/141-Le-20e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>142 - Le 20e siècle des pays de langue française</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:42 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/142-Le-20e-siecle-des-pays-de-langue-française.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>143 - Le mouvement des brigadiers de la Drôme</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:43 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/143-Le-mouvement-des-brigadiers-de-la-Drome.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>144 - L'évangélisation du Nord de la France</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:44 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/144-L-evangelisation-du-Nord-de-la-France.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>145 - Le mouvement de Pentecôte en France</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:45 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/145-Le-mouvement-de-Pentecote-en-France.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>146 - Le mouvement de Pentecôte en France (suite)</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:46 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/146-Le-mouvement-de-Pentecote-en-France-suite.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>147 - Le réveil tzigane</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:47 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/147-Le-reveil-tzigane.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>148 - Le réveil tzigane (suite)</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:48 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/148-Le-reveil-tzigane-suite.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>150 - Le mouvement charismatique 3 (fin du 20e siècle)</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:50 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/150-Le-mouvement-charismatique-3-fin-du-20e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>151 - Le réveil charismatique 2 (années 70)</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:51 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/151-Le-reveil-charismatique-2-annees-70.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>152 - Le monde protestant à la fin du 20e</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:52 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/152-Le-monde-protestant-a-la-fin-du-20e.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>154 - Mouvement Pentecôte en France - Tibby Barratt - Lewis Pethrus - Réveil du pays de Galle</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:54 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/154-Mouvement-Pentecote-en-France-Tibby-Barratt-Lewis-Pethrus-Reveil-du-pays-de-Galle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>155 - Réveil de Pentecôte en Allemagne, AutricheHongrie - Veille de la 1e guerre mondiale - D.Gee</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:55 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/155-Reveil-de-Pentecote-en-Allemagne-AutricheHongrie-Veille-de-la-1e-guerre-mondiale-D-Gee.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>156 - Le mouvement de Pentecôte pendant l'entre deux guerres</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:56 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/156-Le-mouvement-de-Pentecote-pendant-l-entre-deux-guerres.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>157 - Mouvement de Pentecôte pendant les années 50-60 - David Duplessis - Début réveil charismatique</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:57 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/157-Mouvement-de-Pentecote-pendant-les-annees-50-60-David-Duplessis-Debut-reveil-charismatique.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>158 - Début réveil charismatique En Amérique et Europe - Dérives au sein de l'église catholique</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:58 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/158-Debut-reveil-charismatique-En-Amerique-et-Europe-Derives-au-sein-de-l-eglise-catholique.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>159 - Renaissance du mouvement messianique - Zeev Kaufsman</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:59 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/159-Renaissance-du-mouvement-messianique-Zeev-Kaufsman.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>160 - Biographie de Zeev Kaufsman (suite)</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:60 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/160-Biographie-de-Zeev-Kaufsman-suite.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>161 - L'Evangélisation de masse à partir des EU - Vie de Billy Graham</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:61 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/161-L-Evangelisation-de-masse-a-partir-des-EU-Vie-de-Billy-Graham.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>162 - Billy Graham et Francis Schaeffer</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:62 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/162-Billy-Graham-et-Francis-Schaeffer.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>163 - la pensée de F.schaeffer - Le protestantisme non charismatique en Europe - L'Allemagne Karla Bart, Booltman</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:63 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/163-la-pensee-de-F-schaeffer-Le-protestantisme-non-charismatique-en-Europe-L-Allemagne-Karla-Bart-Booltman.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>164 - Courants théologiques protestants de Booltman à nos jours - rejet de ces théories par les découvertes scientifiques</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:64 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/164-Courants-theologiques-protestants-de-Booltman-a-nos-jours-rejet-de-ces-theories-par-les-decouvertes-scientifiques.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>165 - Eglise catholique XXe - 1e partie - histoire papres entre deux guerres - diplomatie vaticane</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:65 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/165-Eglise-catholique-XXe-1e-partie-histoire-papres-entre-deux-guerres-diplomatie-vaticane.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>166 - Eglise catholique dans les événements de l'entre 2 guerres et la 2e GM</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:66 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/166-Eglise-catholique-dans-les-evenements-de-l-entre-2-guerres-et-la-2e-GM.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>167 - Eglise catholique dans les événements de la 2e GM</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:67 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/167-Eglise-catholique-dans-les-evenements-de-la-2e-GM.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>168 - Catholiscisme au 20e - le pape Jean Paul II</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:68 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/168-Catholiscisme-au-20e-le-pape-Jean-Paul-II.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>169 - L'oecumenisme - base - naissance - Concile Vatican II</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:69 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/169-L-oecumenisme-base-naissance-Concile-Vatican-II.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>170 - L'oecuménisme - Le conseil oecuménique des églises</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:70 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/170-L-oecumenisme-Le-conseil-oecumenique-des-eglises.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>171 - Eglises orientales - Eglises en URSS - Russie de Staline à nos jours</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:71 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/171-Eglises-orientales-Eglises-en-URSS-Russie-de-Staline-a-nos-jours.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>172 - Situation des églises au Liban - l'église copte - l'état de dhimmi</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:72 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/172-Situation-des-eglises-au-Liban-l-eglise-copte-l-etat-de-dhimmi.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>173 - Eglises d'Orient - la dhimmitude - Attitude des églises orientales et occidentales envers Israël</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:73 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/173-Eglises-d-Orient-la-dhimmitude-Attitude-des-eglises-orientales-et-occidentales-envers-Israel.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>174 - L'expansion missionnaire au 20e siècle</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:74 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/174-L-expansion-missionnaire-au-20e-siecle.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>175 - Les missions en Orient - Chine - Corée - Philippines - Nouvelle Guinée - Indonésie</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:75 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/175-Les-missions-en-Orient-Chine-Coree-Philippines-Nouvelle-Guinee-Indonesie.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>176 - Mission en Extrême Orient - Réveils de Java - Nouvelle Guinée - Sadhou Sundar Singh - Sud Est Asiatique - Laos - Cambodge - Vietnam - Bornéo</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:76 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/176-Mission-en-Extreme-Orient-Reveils-de-Java-Nouvelle-Guinee-Sadhou-Sundar-Singh-Sud-Est-Asiatique-Laos-Cambodge-Vietnam-Borneo.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>177 - L'évangélisation de l'Afrique au 20e - Ministère de Charles Studd</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:77 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/177-L-evangelisation-de-l-Afrique-au-20e-Ministere-de-Charles-Studd.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>178 - Missions en Afrique au 20e sicèle - Réveil chez les Zoulous</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:78 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/178-Missions-en-Afrique-au-20e-sicele-Reveil-chez-les-Zoulous.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>179 - Evangélisation des tribus primitives en Amérique latine</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:79 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/179-Evangelisation-des-tribus-primitives-en-Amerique-latine.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>180 - Evangélisation des Aoukas - Bilan de la mission au 20e s</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:80 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/180-Evangelisation-des-Aoukas-Bilan-de-la-mission-au-20e-s.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>181 - Mission chrétienne au 20e - Nouveaux martyrs - persécution en URSS - persécution par les nazis</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:81 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/181-Mission-chretienne-au-20e-Nouveaux-martyrs-persecution-en-URSS-persecution-par-les-nazis.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+        <item>
+            <itunes:author>Enseignements - Jean-Marc Thobois</itunes:author>
+            <title>182 - 20e - Martyrs chrétiens sous l'allemagne nazie, sous le joug communiste, dans le champ missionnaire</title>
+            <pubDate>Mon, 1 Jan 2002 00:01:82 PDT</pubDate>
+            <enclosure url="http://www.enseignements-bibliques-jmthobois.com/audio/HE/182-20e-Martyrs-chretiens-sous-l-allemagne-nazie-sous-le-joug-communiste-dans-le-champ-missionnaire.mp3" type= "audio/mpeg" />
+            <itunes:duration>01:00</itunes:duration>
+            <itunes:subtitle>Histoire de l'Eglise - par Jean Marc Thobois</itunes:subtitle>
+        </item>
+    </channel>
+</rss>
